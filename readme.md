@@ -19,7 +19,7 @@ on what needs to be analyzed. Further enhancements are possible to curtail outpu
 cd ~/
 mkdir  my_dir_for_venvs
 cd my_dir_for_virtual_envs
-python3 -m venv pdf-charts-reader-venv
+python3 -m venv pdf-charts-analyzer-venv
 ```
 
 ### (2) Activate the virtual environment :-
