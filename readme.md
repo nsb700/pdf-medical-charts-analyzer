@@ -24,7 +24,7 @@ python3 -m venv pdf-charts-analyzer-venv
 
 ### (2) Activate the virtual environment :-
 ```commandline
-source ~/my_dir_for_venvs/pdf-charts-reader-venv/bin/activate
+source ~/my_dir_for_venvs/pdf-charts-analyzer-venv/bin/activate
 ```
 
 ### (3) Clone this repository :-
